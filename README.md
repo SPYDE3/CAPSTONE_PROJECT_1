@@ -56,8 +56,6 @@ g++ 2241016080.cpp -o File_Explorer_Application
 File_Explorer_Application.exe
 
 
-📝 Note: Use -std=c++11 because GCC 6 doesn’t support full <filesystem> from C++17.
-
 🖥️ Sample Commands
 Command	Description
 ls	Show files in current folder
