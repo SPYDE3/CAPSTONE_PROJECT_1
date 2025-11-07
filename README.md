@@ -46,12 +46,14 @@ Platform Support: Windows and Linux
 
 🧾 How to Compile and Run
 On Linux / WSL
-g++ -std=c++11 file_explorer.cpp -o explorer
-./explorer
+g++ 2241016080.cpp -o File_Explorer_Application
+
+./File_Explorer_Application
 
 On Windows (MinGW)
-g++ -std=c++11 file_explorer.cpp -o explorer.exe
-explorer.exe
+g++ 2241016080.cpp -o File_Explorer_Application
+
+File_Explorer_Application.exe
 
 
 📝 Note: Use -std=c++11 because GCC 6 doesn’t support full <filesystem> from C++17.
