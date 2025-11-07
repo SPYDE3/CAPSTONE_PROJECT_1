@@ -2,12 +2,11 @@
     ------------------------------------------------------------
     SIMPLE CONSOLE FILE EXPLORER (WITH ACTIVITY LOG)
     ------------------------------------------------------------
-    Author  : <Your Name>
+    Author  : Gourab Panda
     Purpose : A small command-line file explorer that allows
               users to perform common file operations such as
               create, delete, copy, move, list, and search.
               It also keeps a log of all performed actions.
-    Compiler: GCC 6.0 (Windows / Linux Compatible)
     ------------------------------------------------------------
 */
 
