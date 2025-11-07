@@ -116,5 +116,5 @@ Add encryption for log files
 👤 Author
 
 Name: Gourab Panda
-College: nstitute of Technical Education and Research
+College: Institute of Technical Education and Research, Bhubaneswar
 Year: Final Year (2026)
